@@ -150,3 +150,21 @@ a {
     margin-bottom: 40px;
     background-color: white;
 }
+
+/* Section 6: Featured Quote */
+.column-quote {
+    width: 90%;
+    height: 475px;
+    padding: 40px 70px 100px 70px;
+    margin: auto;
+    margin-bottom: 150px;
+    border: 20px solid #FEDE00;
+}
+
+.quote {
+    font-size: 80px;
+    font-weight: bold;
+    line-height: 1;
+    text-align: center;
+}
+
