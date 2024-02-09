@@ -50,3 +50,65 @@ a {
     background-size: cover;
     background-position: center;
 }
+
+/* Section 3 */
+.section-heading {
+    text-align: center;
+    color: #102c4e;
+    margin-top: 150px;
+    margin-bottom: 70px;
+    font-size: 35px;
+}
+
+/* Sizing for Project Containers */
+.column-4 {
+    float: left;
+    width: 21%;
+    padding: 10px;
+    margin: 20px;
+    height: 250px;
+}
+
+/* Color and Images for Project Containers */
+.project-1 {
+    background: url('../images/project-left.png');
+    background-size: cover;
+}
+
+.project-2 {
+    background-color: white;
+}
+
+.project-3 {
+    background-color: #209BFF;
+}
+
+.project-4 {
+    background-color: #1145ff;
+}
+
+.project-5 {
+    background-color: #f9f7f7;
+}
+
+.project-6 {
+    background-color: #209BFF;
+}
+
+.project-7 {
+    background-color: #1145ff;
+}
+
+.project-8 {
+    background: url('../images/project-right.png');
+    background-size: cover;
+}
+
+.project-text {
+    text-align: center;
+    font-size: 50px;
+}
+
+.mouse-hover:hover {
+    background-color: #FEDE00;
+}
