@@ -7,3 +7,20 @@ body {
 a {
     color: #112d4e;
 }
+
+/* Top header profile image */
+.profile-small {
+    height: 150px;
+    border-radius: 50%;
+    border: 10px solid #FEDE00;
+}
+
+/* Header Title */
+.header {
+    padding: 40px;
+    text-align: center;
+    background: #f9f7f7;
+    margin: 30px;
+    font-size: 20px;
+}
+
